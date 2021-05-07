@@ -1,5 +1,5 @@
 # PureFunctions
-Skillbox homework 15.5 on the topic "Pure Functions"
+## Skillbox homework 15.5 on the topic "Pure Functions"
 
 **Goals**
 1. Read the article about functional programming.
@@ -13,12 +13,16 @@ Skillbox homework 15.5 on the topic "Pure Functions"
 9. Bool (whether the first number should go after the second), and returns an array sorted according to this algorithm.
 10.  Write in your own words what infix -, suffix -, prefix-operators are.
 
-**Main point**
-Implemented a collection with pure functions. When you click on a collection cell, the corresponding clean function is called
+🔗 <b>Main point
+
+ Implemented a collection with pure functions. When you click on a collection cell, the corresponding clean function is called
+
+<br/><br/>
 
 ![Image alt](https://github.com/IgorNikiforovV/PureFunctions/blob/main/MainScreen.png)
+![Image alt](https://github.com/IgorNikiforovV/PureFunctions/blob/main/DetailScreen.png)
 
-**What is involved**
+## What is involved
 
 1. Implementing pure functions
 2. Table view collections and custom xib cell

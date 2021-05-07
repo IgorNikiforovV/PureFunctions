@@ -1,6 +1,8 @@
 # PureFunctions
 ## Skillbox homework 15.5 on the topic "Pure Functions"
 
+- [Функциональный Swift](https://github.com/anediaz)
+
 **Goals**
 1. Read the article about functional programming.
 2. Write in your own words what Pure Function is.

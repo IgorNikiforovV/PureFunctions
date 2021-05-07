@@ -1,10 +1,8 @@
 # PureFunctions
 ## Skillbox homework 15.5 on the topic "Pure Functions"
 
-- [Функциональный Swift](https://github.com/anediaz)
-
 **Goals**
-1. Read the article about functional programming.
+1. Read the article about functional programming [Функциональный Swift](https://github.com/anediaz).
 2. Write in your own words what Pure Function is.
 3. Sort the array of numbers in ascending order using the Sorted function.
 4. Convert an array of numbers to an array of strings using the Map function.

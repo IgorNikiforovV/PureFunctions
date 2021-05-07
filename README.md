@@ -16,7 +16,7 @@ Skillbox homework 15.5 on the topic "Pure Functions"
 **Main point**
 Implemented a collection with pure functions. When you click on a collection cell, the corresponding clean function is called
 
-![Image alt](https://github.com/{IgorNikiforovV}/{PureFunctions}/raw/{master}/MainScreen.png)
+![Image alt](https://github.com/IgorNikiforovV/PureFunctions/raw/master/MainScreen.png)
 
 **What is involved**
 

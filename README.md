@@ -12,3 +12,13 @@ Skillbox homework 15.5 on the topic "Pure Functions"
 8. Write a function that sorts the array according to the passed algorithm: it takes an array of numbers and a function that takes two numbers as input, returns 
 9. Bool (whether the first number should go after the second), and returns an array sorted according to this algorithm.
 10.  Write in your own words what infix -, suffix -, prefix-operators are.
+
+**Main point**
+Implemented a collection with pure functions. When you click on a collection cell, the corresponding clean function is called
+
+**What is involved**
+
+1. Implementing pure functions
+2. Table view collections and custom xib cell
+3. Navigation stack transitions
+4. Pure functions autotests
